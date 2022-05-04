@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding:0;
+}
+.logo{
+    width: 16%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.logo img{
+    width: 81%;
+    border-radius: 79px;
+    border-style: solid;
+    border-color: black;
+}
+
+#search{
+    padding: 5px;
+    font-size: 17px;
+    border: 2px solid grey;
+    border-radius: 9px;
+}
+.btn btn-sm{
+    font-size: 17;
+}
+.heading1{
+    padding:40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.brief1{
+    padding: 40px;
+    display: flex;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif ;
+    align-items:center;
+    justify-content: space-evenly;
+    margin: auto;
+   
+}
+.heading2{
+    padding:40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.brief2{
+    padding: 40px;
+    display: flex;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif ;
+    align-items:center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+.recommend{
+    padding:40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.goodwebsite{
+    padding: 40px;
+    font-size: 27px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading3{
+    padding: 40px;
+    font-size: 27px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.brief3{
+    padding: 40px;
+    display: flex;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif ;
+    align-items:center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+.copyright{
+    padding: 40px;
+    font-size: 27px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+}
+
+.bg{
+    background-image: url('bg.jpg');
+    height: 50%;
+    width: 70%;
+
+}
